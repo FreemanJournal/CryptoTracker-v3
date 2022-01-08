@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptoTracker-v3/static/css/main.2a27ee5e.css",
+    "main.js": "/cryptoTracker-v3/static/js/main.f8b5a0f9.js",
+    "static/js/787.e22d8218.chunk.js": "/cryptoTracker-v3/static/js/787.e22d8218.chunk.js",
+    "index.html": "/cryptoTracker-v3/index.html",
+    "main.2a27ee5e.css.map": "/cryptoTracker-v3/static/css/main.2a27ee5e.css.map",
+    "main.f8b5a0f9.js.map": "/cryptoTracker-v3/static/js/main.f8b5a0f9.js.map",
+    "787.e22d8218.chunk.js.map": "/cryptoTracker-v3/static/js/787.e22d8218.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a27ee5e.css",
+    "static/js/main.f8b5a0f9.js"
+  ]
+}
